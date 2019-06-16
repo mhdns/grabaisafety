@@ -1,2 +1,1 @@
-# grabaisafety
-Grab AI Challenge - Safety
+# Grab AI Challenge - Safety
